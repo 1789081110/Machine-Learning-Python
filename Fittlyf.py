@@ -125,12 +125,4 @@ y="How_many_Landed_on_the_our_Page_and_clicked_on_a_button_and_started_filling_t
  ci=None, color="green", marker='o')
 
 
-# #About the Previous projects
-# As data science domain is an most intresting and future of the world i am so excited to be an open source contributer,
-# I have started my journey on machine learning from last year where i learned more about the theory and algorithms of machine learning, last week i was creating a chat bot using python in pycharm where i created 5 functions total and in those functions i have created or instructed few comments where if you say hi/hello it will reply Hello! and if ask about it it will reply i am chat bot,if you ask what do you eat it say's i won't eat anything as i am a chat bot, i am trying to improve this with adding more comment to it by which i can train the model and i am currently working on a home security project also at my project,i would like thank all the youtube videos, blogs,datacamp,coursera and etc.. for helping me understand the basics of ml.
-# https://github.com/1789081110/CHAT-BOT
-
-# #Time management
-# As Time management is a very import field in which i have to complete my project within time and manage my other work aswell,
-# If I get selected for this internship at Fittlyf which is for 4 months, I would be really happy and would give my best for this intership as my college end at 3, i have time from 3 till night so I can work on projects and works that are assigned to me, even though I am a newbee,I am more exicted for this fun ride which could teach me more things that no on could and I could add the intern certificate to resume.
 #                                          Thankyou!
