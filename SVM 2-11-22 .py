@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-df=pd.read_csv("C:/Users/vknsr/OneDrive/Documents/ML/Iris.csv")
+df=pd.read_csv("/Iris.csv")
 df
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
