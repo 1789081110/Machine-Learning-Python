@@ -6,7 +6,6 @@ df=pd.read_csv("C:/Users/vknsr/OneDrive/Documents/ML/Titanic.csv")
 df.head()
 df.columns
 
-
 df.head()
 df['Age'].fillna(value=df['Age'].mean(),inplace=True)
 df['Cabin'].fillna(value=df['Cabin'].mode()[0],inplace=True)
