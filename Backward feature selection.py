@@ -10,7 +10,6 @@ df['Age'].fillna(value=df['Age'].mean(),inplace=True)
 df['Cabin'].fillna(value=df['Cabin'].mode()[0],inplace=True)
 df['Embarked'].fillna(value=df['Embarked'].mode()[0],inplace=True)
 
-
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 df["Survived"]=le.fit_transform(df["Survived"])
