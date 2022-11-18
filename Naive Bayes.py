@@ -51,8 +51,6 @@ y_pred=ga.predict(df_test)
 y_pred.mean()
 
 
-# In[ ]:
-
 
 
 
